@@ -23,11 +23,6 @@
 <br />
 
 
-[![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateeky477)](https://github.com/prateeky477/github-readme-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prateeky477)](https://github.com/prateeky477/github-readme-stats)
-
-
 #### Find me on  
 
 
