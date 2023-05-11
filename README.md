@@ -18,6 +18,7 @@
   <code><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="Visual Code Studio"></code>
   <code><img height="25" src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP"></code>
   <code><img height="25" src="https://user-images.githubusercontent.com/96304501/210562194-9d7943fd-b812-4a67-855b-118762ca73be.png" alt="ReactJS"></code>
+  <code><img height="25" src="https://www.svgrepo.com/show/330413/fastapi.svg" alt="FASTAPI"></code>
 
 </p>
 
