@@ -3,7 +3,7 @@
 
 <h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/prateek-yadav-354912215/" target="_blank" rel="noopener noreferrer">Prateek Yadav</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
 
-- 🎓 I'm a Final year Computer Engineering student  
+- 🎓 I'm a Computer Engineering.
 
 
 #### Languages and Tools 
